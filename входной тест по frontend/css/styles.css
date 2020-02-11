@@ -1,0 +1,69 @@
+.ques {
+  width: 481px;
+  height: 392px;
+position: fixed;
+top: calc(50% - 190.5px);
+left: calc(50% - 196px);
+box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.25);
+border-radius: 12px;
+background: #F7F5F9;
+
+}
+
+.f1 {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.first {
+
+
+
+height: 20px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 20px;
+}
+
+.text {
+border: hidden;
+margin-left: 40px;
+margin-top: 25px;
+height: 48px;
+width: 401px;
+border-radius: 6px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+
+}
+.text:hover {
+border: 1px solid #854FC8;
+
+}
+
+
+.button {
+
+margin-left: 40px;
+margin-top: 25px;
+width: 401px;
+height: 48px;
+background: #6979F8;
+border-radius: 6px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+color: #FFFFFF;
+}
+.button:hover {
+background: green;
+}
+
+}
